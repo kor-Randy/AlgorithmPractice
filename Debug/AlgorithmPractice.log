@@ -1,4 +1,3 @@
-﻿  InsertSort.cpp
-c:\users\wlgusdn\source\repos\algorithmpractice\insertsort.cpp(12): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+﻿  QuickSort.cpp
   AlgorithmPractice.vcxproj -> C:\Users\wlgusdn\source\repos\AlgorithmPractice\Debug\AlgorithmPractice.exe
   AlgorithmPractice.vcxproj -> C:\Users\wlgusdn\source\repos\AlgorithmPractice\Debug\AlgorithmPractice.pdb (Partial PDB)
